@@ -23,7 +23,7 @@ ni=1.39;% Inner Phase
 
 %% Raytracing Parameters:
 %set number of rays: 
-rayDensity=0.2 %rays per unit length
+rayDensity=0.3 %rays per unit length
 
 %include coverslip (or any glass substrate)
 useCoverslip=true;
